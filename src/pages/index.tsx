@@ -31,7 +31,7 @@ export default function Home() {
           >
             Next.js
             <br />
-            Documentaion &rarr;
+            Documentation &rarr;
           </a>
           <a
             href="https://nextjs.org/docs"
@@ -40,7 +40,7 @@ export default function Home() {
             hover:text-blue-500 dark:hover:text-blue-500 hover:border-blue-500 dark:text-white"
           >
             Tailwindcss
-            <br /> Documentaion &rarr;
+            <br /> Documentation &rarr;
           </a>
         </div>
         <button className="self-center dark:text-white dark:border-gray-600 
